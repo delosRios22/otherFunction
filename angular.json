@@ -88,9 +88,15 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "assets/b4/css/bootstrap.min.css",
+              "assets/font-awesome/css/font-awesome.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "assets/jquery/jquery.slim.min.js",
+              "assets/tether/tether.js",
+              "assets/b4/js/bootstrap.min.js"
+            ]
           }
         },
         "lint": {
